@@ -1,1 +1,6 @@
 readme
+
+
+
+studentská změna
+
